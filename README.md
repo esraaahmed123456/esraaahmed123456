@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 !My Name is Esraa Ahmed</h1>
+<h1 align="center">Hey 👋 !My Name is Esraa Ahmed</h1>
 
 ###
 
-<h2 align="left">Front End Deveolopar</h2>
+<h2 align="center">Front End Deveolopar</h2>
 
 ###
 
